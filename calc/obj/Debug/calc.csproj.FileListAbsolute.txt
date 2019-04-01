@@ -1,0 +1,15 @@
+C:\Users\Alibek\source\repos\calc\calc\bin\Debug\calc.exe.config
+C:\Users\Alibek\source\repos\calc\calc\bin\Debug\calc.exe
+C:\Users\Alibek\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\Alibek\source\repos\calc\calc\obj\Debug\calc.csprojAssemblyReference.cache
+C:\Users\Alibek\source\repos\calc\calc\obj\Debug\MainWindow.g.cs
+C:\Users\Alibek\source\repos\calc\calc\obj\Debug\App.g.cs
+C:\Users\Alibek\source\repos\calc\calc\obj\Debug\calc_MarkupCompile.cache
+C:\Users\Alibek\source\repos\calc\calc\obj\Debug\calc_MarkupCompile.lref
+C:\Users\Alibek\source\repos\calc\calc\obj\Debug\MainWindow.baml
+C:\Users\Alibek\source\repos\calc\calc\obj\Debug\calc.g.resources
+C:\Users\Alibek\source\repos\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\Alibek\source\repos\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\Alibek\source\repos\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\Alibek\source\repos\calc\calc\obj\Debug\calc.exe
+C:\Users\Alibek\source\repos\calc\calc\obj\Debug\calc.pdb
